@@ -1,7 +1,7 @@
 {
 "prefix": "!",
-"token": "ODI4MDUyNDkzNDkzMjA3MDkx.YGj9-g.j24djg-YPllKHMDuNyxwTzOa5pw",
+"token": "Your Token",
 "scopes": ["bot"],
-"CLIENT_ID": "828052493493207091",
-"CLIENT_SECRET": "7-ywO-i4sqYiHFL3R0GenMBbaumCaQbd"
+"CLIENT_ID": "Your Client ID",
+"CLIENT_SECRET": "Your Client Secret"
 }
