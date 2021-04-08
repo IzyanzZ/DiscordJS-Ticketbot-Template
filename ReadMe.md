@@ -11,7 +11,7 @@ Configurize this bot in the config.json
 Now use following commands in your CMD:
 
 To install DiscordJS and fs which we need, run those commands: 
-> npm install discord.js
+> npm install discord.js +
 > npm install fs
 
 To start the Bot you need to run following command:
