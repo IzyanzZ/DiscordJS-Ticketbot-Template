@@ -26,14 +26,6 @@ module.exports = {
         const filter = (reaction, user) => {
             return ['🎟️', '❌'].includes(reaction.emoji.name) && user.id === message.author.id;
         };
-
-
-
-/// Template by TwentyDollarStudios
-/// Want more? 
-/// https://discord.gg/ns56mzu9
-/// Support us on Ko-Fi
-/// https://ko-fi.com/twentydollarstudios
         
         
         
@@ -73,12 +65,7 @@ module.exports = {
 
 
 
-/// Template by TwentyDollarStudios
-/// Want more? 
-/// https://discord.gg/ns56mzu9
-/// Support us on Ko-Fi
-/// https://ko-fi.com/twentydollarstudios
-            
+
             
             
        .catch(collected => {
